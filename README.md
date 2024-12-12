@@ -1,4 +1,4 @@
-<h2 align="left">Welcome! 👋 Hi, I'm Zoubair Kharbach 🚀</h2>
+<h1 align="left">Welcome! 👋 Hi, I'm Zoubair Kharbach 🚀</h1>
 
 ###
 
@@ -25,11 +25,11 @@
 
 ###
 
-<div align="left">
-  <h3>💻 Tech Stack</h3>
-  <strong>Languages:</strong> C, JavaScript, PHP, Python, HTML5, CSS3 <br>
+<h3 align="left">💻 Tech Stack</h3>
+<p align="left">
+  <strong>Languages:</strong> C, JavaScript, PHP, Python, HTML5, CSS3<br>
   <strong>Frameworks & Tools:</strong> React, Laravel, Express.js, Node.js, MySQL, MongoDB, Docker, Bootstrap
-</div>
+</p>
 
 ###
 
