@@ -32,8 +32,8 @@ Continued development of low-level C utilities and algorithm implementations.
 
 ---
 ### 📫 Contact
-Email: zoubair.kharbach@example.com (Replace with your email)
-GitHub: github.com/ZoubairKharbach
+Email: zoubairkharbach@gmail.com (Replace with your email)
+GitHub: github.com/kharbachzoubair
 
 💻 Tech Stack:
 JavaScript C CSS3 HTML5 PHP Python React MongoDB Laravel MySQL
