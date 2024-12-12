@@ -1,10 +1,60 @@
-<h2 align="left">Hi 👋! My name is Zoubair Kharbach and I'm a Full-Stack Developer, from Morocco.</h2>
+<h2 align="left">Welcome! 👋 Hi, I'm Zoubair Kharbach 🚀</h2>
+
+###
+
+<p align="left">
+  🌟 A passionate Full-Stack Developer and C Programming Enthusiast currently training at 42 School (1337) in Morocco, driven by a love for coding and problem-solving.
+</p>
 
 ###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kharbachzoubair&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kharbachzoubair&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<p align="left">
+  🚀 <strong>About Me</strong><br>
+  🎓 Full-Stack Developer honing my skills at 42 School (1337).<br>
+  🔭 Growing expertise in: C programming, backend development, and modern web technologies.<br>
+  🌱 Always learning: Exploring innovative tools and techniques to build efficient and scalable solutions.<br>
+  💡 Fun Fact: I love tackling challenging problems and contributing to collaborative projects.
+</p>
+
+###
+
+<div align="left">
+  <h3>💻 Tech Stack</h3>
+  <strong>Languages:</strong> C, JavaScript, PHP, Python, HTML5, CSS3 <br>
+  <strong>Frameworks & Tools:</strong> React, Laravel, Express.js, Node.js, MySQL, MongoDB, Docker, Bootstrap
+</div>
+
+###
+
+<h3 align="left">📈 GitHub Stats</h3>
+
+###
+
+<h3 align="left">📌 Featured Projects</h3>
+<ul>
+  <li><strong>libft_printf</strong> - A custom implementation of the printf function for the 42 Network, designed to re-create and extend the capabilities of the standard C library function. <br> ⭐ Skills: Format specifiers, flags, memory management <br> 🔖 Tags: printf-42, 1337school, 42network, custom-printf</li>
+  <li><strong>Get_Next_Line</strong> - Efficient single-line reader for file descriptors, focusing on robust buffer management. <br> ⭐ Skills: File handling, buffer management</li>
+  <li><strong>libft</strong> - A custom C library reimplementing standard functions, with utilities for memory management and linked lists. <br> ⭐ Skills: Dynamic memory allocation, linked list manipulation</li>
+  <li><strong>pfe</strong> - A JavaScript-based project exploring innovative solutions for dynamic web applications.</li>
+  <li><strong>garagiste</strong> - A garage management system built with Laravel, featuring custom Blade templates and backend capabilities. <br> ⭐ Skills: Laravel framework, backend development, responsive design</li>
+  <li><strong>Book_Projet</strong> - JavaScript-based project for managing and displaying book-related data.</li>
+  <li><strong>Recepi_Projet</strong> - Forked from aymanaarab/Recepi_Projet, this project showcases recipe management and display features.</li>
+</ul>
+
+###
+
+<div align="left">
+  <h3>📬 Connect with Me</h3>
+  📧 Email: zoubair.kharbach@example.com<br>
+  🌐 LinkedIn: [linkedin.com/in/zoubairkharbach](https://linkedin.com/in/zoubairkharbach)<br>
+  🐦 Twitter: [@ZoubairKharbach](https://twitter.com/ZoubairKharbach)
 </div>
 
 ###
@@ -26,29 +76,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
 </div>
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
-
-###
-
-<h3 align="left">🚀 Featured Projects</h3>
-<ul>
-  <li><strong>libft</strong> - A custom C library reimplementing standard functions and providing additional utilities for 42 Network projects. <br> ⭐ Skills: Dynamic memory management, string manipulation, linked lists.</li>
-  <li><strong>ft_printf</strong> - Recreation of the standard printf function in C. <br> ⭐ Skills: Format specifiers, flags, width/precision handling.</li>
-  <li><strong>get_next_line</strong> - Single-line reader function for file descriptors. <br> ⭐ Skills: File handling, buffer management, robust error checking.</li>
-  <li><strong>garagiste</strong> - A Laravel-based project for garage management with backend capabilities. <br> ⭐ Skills: Laravel, PHP, MySQL.</li>
-  <li><strong>Book_Projet</strong> - A JavaScript-based project that implements a simple book management system. <br> ⭐ Skills: JavaScript, Node.js, Express.js, MongoDB.</li>
-  <li><strong>Recepi_Projet</strong> - Forked project focused on recipe management. <br> ⭐ Skills: JavaScript, API integration.</li>
-</ul>
 
 ###
 
