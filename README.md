@@ -1,5 +1,52 @@
 # 💫 About Me:
-Here’s a suggestion for updating your GitHub profile README to reflect your achievements and interests, tailored to a professional style like the one for Mohamed Bentaleb:<br><br>Zoubair Kharbach<br>💻 Software Developer | C Programming Enthusiast | 42 Network Student<br><br>I’m passionate about systems programming, algorithms, and crafting efficient, robust software solutions. My current focus is on mastering low-level programming in C while building libraries and tools for real-world applications.<br><br>🌟 Profile Highlights<br>🔍 Focused on C programming, file handling, memory management, and system-level development.<br>🎯 Working on projects like libft, get_next_line, and ft_printf for the 42 Network.<br>🚀 Always learning and applying new techniques to enhance software performance and readability.<br>🔧 Languages and Tools<br>Languages:<br><br><br>Tools:<br><br><br>🚀 Featured Projects<br>📚 Libft<br>A custom C library reimplementing standard functions and providing additional utilities for 42 Network projects.<br>⭐ Skills: Dynamic memory management, string manipulation, linked lists.<br><br>📜 ft_printf<br>Recreation of the standard printf function in C.<br>⭐ Skills: Format specifiers, flags, width/precision handling.<br><br>📖 get_next_line<br>Single-line reader function for file descriptors.<br>⭐ Skills: File handling, buffer management, robust error checking.<br><br>📈 Contribution Activity<br>2024 Overview<br>Contributions to 42 Network projects: libft, ft_printf, get_next_line.<br>Continued development of low-level C utilities and algorithm implementations.<br>📫 Contact<br>Email: zoubair.kharbach@example.com (Replace with your email)<br>GitHub: github.com/ZoubairKharbach<br>
+Here’s a suggestion for updating your GitHub profile README to reflect your achievements and interests, tailored to a professional style like the one for Mohamed Bentaleb:<br><br>💫 About Me:
+Here’s a suggestion for updating your GitHub profile README to reflect your achievements and interests, tailored to a professional style like the one for Mohamed Bentaleb:
+
+### Zoubair Kharbach
+💻 Software Developer | C Programming Enthusiast | 42 Network Student
+
+I’m passionate about systems programming, algorithms, and crafting efficient, robust software solutions. My current focus is on mastering low-level programming in C while building libraries and tools for real-world applications.
+
+---
+### 🌟 Profile Highlights
+🔍 Focused on C programming, file handling, memory management, and system-level development.
+🎯 Working on projects like libft, get_next_line, and ft_printf for the 42 Network.
+🚀 Always learning and applying new techniques to enhance software performance and readability.
+
+---
+### 🚀 Featured Projects
+📚 Libft
+A custom C library reimplementing standard functions and providing additional utilities for 42 Network projects.
+⭐ Skills: Dynamic memory management, string manipulation, linked lists.
+
+📜 ft_printf
+Recreation of the standard printf function in C.
+⭐ Skills: Format specifiers, flags, width/precision handling.
+
+📖 get_next_line
+Single-line reader function for file descriptors.
+⭐ Skills: File handling, buffer management, robust error checking.
+
+---
+### 📈 Contribution Activity
+2024 Overview
+Contributions to 42 Network projects: libft, ft_printf, get_next_line.
+Continued development of low-level C utilities and algorithm implementations.
+
+---
+### 📫 Contact
+Email: zoubair.kharbach@example.com (Replace with your email)
+GitHub: github.com/ZoubairKharbach
+
+💻 Tech Stack:
+JavaScript C CSS3 HTML5 PHP Python React MongoDB Laravel MySQL
+
+📊 GitHub Stats:
+
+
+
+
+<br>💻 Software Developer | C Programming Enthusiast | 42 Network Student<br><br>I’m passionate about systems programming, algorithms, and crafting efficient, robust software solutions. My current focus is on mastering low-level programming in C while building libraries and tools for real-world applications.<br><br>🌟 Profile Highlights<br>🔍 Focused on C programming, file handling, memory management, and system-level development.<br>🎯 Working on projects like libft, get_next_line, and ft_printf for the 42 Network.<br>🚀 Always learning and applying new techniques to enhance software performance and readability.<br>🔧 Languages and Tools<br>Languages:<br><br><br>Tools:<br><br><br>🚀 Featured Projects<br>📚 Libft<br>A custom C library reimplementing standard functions and providing additional utilities for 42 Network projects.<br>⭐ Skills: Dynamic memory management, string manipulation, linked lists.<br><br>📜 ft_printf<br>Recreation of the standard printf function in C.<br>⭐ Skills: Format specifiers, flags, width/precision handling.<br><br>📖 get_next_line<br>Single-line reader function for file descriptors.<br>⭐ Skills: File handling, buffer management, robust error checking.<br><br>📈 Contribution Activity<br>2024 Overview<br>Contributions to 42 Network projects: libft, ft_printf, get_next_line.<br>Continued development of low-level C utilities and algorithm implementations.<br>📫 Contact<br>Email: zoubair.kharbach@example.com (Replace with your email)<br>GitHub: github.com/ZoubairKharbach<br>
 
 
 # 💻 Tech Stack:
