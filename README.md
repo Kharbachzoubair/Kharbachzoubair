@@ -9,10 +9,6 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -27,6 +23,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
 </div>
 
 ###
@@ -42,8 +40,18 @@
 
 ###
 
+<h3 align="left">🚀 Featured Projects</h3>
+<ul>
+  <li><strong>libft</strong> - A custom C library reimplementing standard functions and providing additional utilities for 42 Network projects. <br> ⭐ Skills: Dynamic memory management, string manipulation, linked lists.</li>
+  <li><strong>ft_printf</strong> - Recreation of the standard printf function in C. <br> ⭐ Skills: Format specifiers, flags, width/precision handling.</li>
+  <li><strong>get_next_line</strong> - Single-line reader function for file descriptors. <br> ⭐ Skills: File handling, buffer management, robust error checking.</li>
+  <li><strong>garagiste</strong> - A Laravel-based project for garage management with backend capabilities. <br> ⭐ Skills: Laravel, PHP, MySQL.</li>
+  <li><strong>Book_Projet</strong> - A JavaScript-based project that implements a simple book management system. <br> ⭐ Skills: JavaScript, Node.js, Express.js, MongoDB.</li>
+  <li><strong>Recepi_Projet</strong> - Forked project focused on recipe management. <br> ⭐ Skills: JavaScript, API integration.</li>
+</ul>
+
+###
+
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/kharbachzoubair/kharbachzoubair/output/snake.svg" alt="Snake animation" />
-
-### 
