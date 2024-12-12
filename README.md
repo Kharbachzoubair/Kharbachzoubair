@@ -1,6 +1,3 @@
-# 💫 About Me:
-Here’s a suggestion for updating your GitHub profile README to reflect your achievements and interests, tailored to a professional style like the one for Mohamed Bentaleb:<br><br>💫 About Me:
-Here’s a suggestion for updating your GitHub profile README to reflect your achievements and interests, tailored to a professional style like the one for Mohamed Bentaleb:
 
 ### Zoubair Kharbach
 💻 Software Developer | C Programming Enthusiast | 42 Network Student
