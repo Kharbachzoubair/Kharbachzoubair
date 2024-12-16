@@ -57,7 +57,6 @@
   <li><strong>libft_printf</strong> - A custom implementation of the printf function for the 42 Network, designed to re-create and extend the capabilities of the standard C library function. <br> ⭐ Skills: Format specifiers, flags, memory management <br> 🔖 Tags: printf-42, 1337school, 42network, custom-printf</li>
   <li><strong>Get_Next_Line</strong> - Efficient single-line reader for file descriptors, focusing on robust buffer management. <br> ⭐ Skills: File handling, buffer management</li>
   <li><strong>libft</strong> - A custom C library reimplementing standard functions, with utilities for memory management and linked lists. <br> ⭐ Skills: Dynamic memory allocation, linked list manipulation</li>
-  <li><strong>pfe</strong> - A JavaScript-based project exploring innovative solutions for dynamic web applications.</li>
   <li><strong>garagiste</strong> - A garage management system built with Laravel, featuring custom Blade templates and backend capabilities. <br> ⭐ Skills: Laravel framework, backend development, responsive design</li>
   <li><strong>Book_Projet</strong> - JavaScript-based project for managing and displaying book-related data.</li>
   <li><strong>Recepi_Projet</strong> - Forked from aymanaarab/Recepi_Projet, this project showcases recipe management and display features.</li>
