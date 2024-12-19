@@ -87,9 +87,3 @@
 </div>
 
 ###
-
-<h3 align="left">📈 GitHub Highlights</h3>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=kharbachzoubair&theme=dracula&hide_border=false" alt="GitHub Streak" height="150" />
-</div>
