@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://img.pixers.pics/pho_wat(s3:700/FO/50/68/93/71/700_FO50689371_905e007c50fa6fb2627fb981e0ab5aec.jpg,686,700,cms:2018/10/5bd1b6b8d04b8_220x50-watermark.png,over,466,650,jpg)/stickers-black-dragon.jpg.jpg" />
+  <img height="150" src="https://st2.depositphotos.com/1093645/5585/v/950/depositphotos_55855879-stock-illustration-black-dragon.jpg" />
 </div>
 
 ###
