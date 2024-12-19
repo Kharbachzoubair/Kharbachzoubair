@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=kharbachzoubair&theme=dracula&hide_border=false" alt="GitHub Streak" height="150" />
+  <img height="150" src="https://st2.depositphotos.com/1093645/5585/v/950/depositphotos_55855879-stock-illustration-black-dragon.jpg" />
 </div>
 
 ###
@@ -12,8 +12,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kharbachzoubair&show_icons=true&count_private=true&theme=dracula" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kharbachzoubair&layout=compact&langs_count=5&theme=dracula" height="150" alt="Languages Graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kharbachzoubair&show_icons=true&count_private=true&theme=dracula" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kharbachzoubair&layout=compact&langs_count=5&theme=dracula" height="150" alt="languages graph" />
 </div>
 
 ###
@@ -61,10 +61,35 @@
 
 ###
 
+<h3 align="left">📌 Featured Projects</h3>
+
+- **libft_printf**: A custom implementation of the printf function for the 42 Network.  
+  - Skills: Format specifiers, flags, memory management.  
+  - Tags: printf-42, 1337school, custom-printf.
+
+- **Get_Next_Line**: Efficient single-line reader for file descriptors with robust buffer management.  
+  - Skills: File handling, buffer allocation.
+
+- **libft**: A custom C library reimplementing standard functions with utilities for dynamic memory allocation and linked list operations.  
+  - Skills: Memory management, linked list manipulation.
+
+- **garagiste**: A garage management system built with Laravel, featuring custom Blade templates and backend capabilities.  
+  - Skills: Laravel framework, backend logic, responsive design.
+
+###
+
 <h3 align="left">📬 Connect with Me</h3>
 
 <div align="left">
-  <a href="mailto:zoubair.kharbach@example.com"><img src="https://img.shields.io/badge/Email-zoubair.kharbach%40example.com-red?style=for-the-badge" alt="Email Badge"></a>
-  <a href="https://www.linkedin.com/in/zoubairkharbach"><img src="https://img.shields.io/badge/LinkedIn-Zoubair%20Kharbach-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"></a>
-  <a href="https://twitter.com/ZoubairKharbach"><img src="https://img.shields.io/badge/Twitter-%40ZoubairKharbach-1DA1F2?style=for-the-badge&logo=twitter" alt="Twitter Badge"></a>
+  <a href="mailto:zoubair.kharbach@example.com"><img src="https://img.shields.io/badge/Email-zoubair.kharbach%40example.com-red?style=for-the-badge" alt="email badge"></a>
+  <a href="https://www.linkedin.com/in/zoubairkharbach"><img src="https://img.shields.io/badge/LinkedIn-Zoubair%20Kharbach-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn badge"></a>
+  <a href="https://twitter.com/ZoubairKharbach"><img src="https://img.shields.io/badge/Twitter-%40ZoubairKharbach-1DA1F2?style=for-the-badge&logo=twitter" alt="Twitter badge"></a>
+</div>
+
+###
+
+<h3 align="left">📈 GitHub Highlights</h3>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=kharbachzoubair&theme=dracula&hide_border=false" alt="GitHub Streak" height="150" />
 </div>
