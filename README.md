@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://st2.depositphotos.com/1093645/5585/v/950/depositphotos_55855879-stock-illustration-black-dragon.jpg" />
+  <img height="170" src="https://st2.depositphotos.com/1093645/5585/v/950/depositphotos_55855879-stock-illustration-black-dragon.jpg" />
 </div>
 
 ###
