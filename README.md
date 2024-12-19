@@ -65,7 +65,6 @@
 
 - **libft_printf**: A custom implementation of the printf function for the 42 Network.  
   - Skills: Format specifiers, flags, memory management.  
-  - Tags: printf-42, 1337school, custom-printf.
 
 - **Get_Next_Line**: Efficient single-line reader for file descriptors with robust buffer management.  
   - Skills: File handling, buffer allocation.
