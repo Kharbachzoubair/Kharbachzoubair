@@ -12,8 +12,8 @@
 ###
 
 <div align="center">
-  <img src="https://badge42.vercel.app/api/v2/cld5hczmn000108ma1dduwdeu/stats?cursus=42" height="150" alt="Intra 42 Stats" />
-  <img src="https://badge42.vercel.app/api/v2/cld5hczmn000108ma1dduwdeu/stats?cursus=42&langs_count=5&theme=dracula" height="150" alt="Languages Graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kharbachzoubair&show_icons=true&count_private=true&theme=dracula" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kharbachzoubair&layout=compact&langs_count=5&theme=dracula" height="150" alt="Languages Graph" />
 </div>
 
 ###
